@@ -48,13 +48,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Caio-Martin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Caio-Martin/Caio-Martin/output/snake.svg" alt="Snake animation" />
-
-###
-
-![Snake animation](https://github.com/Caio-Martin/Caio-Martin/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Caio-Martin&repo=Caio-Martin&theme=react)](https://github.com/Caio-Martin/Caio-Martin).
