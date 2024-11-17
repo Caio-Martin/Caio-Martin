@@ -23,7 +23,11 @@
 
 ###
 
-<p align="left">Hi, I'm Caio. I'm a developer from Jundiaí, São Paulo, Brazil. With a strong foundation in IT support and a passion for automation, I'm seeking a challenging role to apply my skills in Python and RPA.<br><br>I have 2 years of experience providing technical assistance to users. I'm currently expanding my knowledge in Python. In my free time, I enjoy reading technical books and listening to podcasts on software development.</p>
+<p align="left">Hi, I'm Caio. I'm a developer from Jundiaí, São Paulo, Brazil, with a strong foundation in IT support and a growing passion for automation and software development.
+
+I bring 2 years of experience in providing technical assistance to users, solving problems efficiently, and ensuring seamless IT operations. Currently, I'm expanding my expertise in Python and Robotic Process Automation (RPA), seeking opportunities to apply these skills in impactful projects.
+
+Beyond work, I enjoy reading technical books and listening to podcasts about the latest trends in software development, keeping me motivated and inspired.</p>
 
 ###
 
@@ -37,8 +41,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"
+  <img width="12" />
+  <img src="https://cdn. jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"
 </div>
-
+ 
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
