@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">**Bachelor's Degree Student in Computer Science (Centro Universitário Padre Anchieta)**</h5>
+**Bachelor's Degree Student in Computer Science (Centro Universitário Padre Anchieta)**
 
 ###
 
