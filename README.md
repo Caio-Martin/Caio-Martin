@@ -3,7 +3,7 @@
 ###
 
 <pre>
-Bachelor's Degree Student in Computer Science (Centro Universitário Padre Anchieta)**
+Bachelor's Degree Student in Computer Science (Centro Universitário Padre Anchieta)
 </pre>
 
 ###
