@@ -48,6 +48,7 @@ Bachelor's Degree Student in Computer Science (Centro Universitário Padre Anchi
   <img src="https://skillicons.dev/icons?i=debian" height="40" alt="Debian Linux icon" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redhat" height="40" alt="Red Hat Linux icon" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL database icon" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="Cypress testing framework icon" />
