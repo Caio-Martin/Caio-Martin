@@ -40,9 +40,9 @@ Bachelor's Degree Student in Computer Science (Centro Universitário Padre Anchi
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell scripting icon" />
   <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL database icon" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original-wordmark.svg" height="40" alt="Proxmox virtualization icon" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL database icon" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu Linux icon" />
   <img width="12" />
