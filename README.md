@@ -28,6 +28,7 @@ Bachelor's Degree Student in Computer Science (Centro Universitário Padre Anchi
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 markup language icon" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 styling language icon" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker containerization icon" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes orchestration icon" />
@@ -37,7 +38,7 @@ Bachelor's Degree Student in Computer Science (Centro Universitário Padre Anchi
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Microsoft Azure cloud icon" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="Amazon Web Services icon" />
-  <br/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original-wordmark.svg" height="40" alt="Proxmox virtualization icon" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux operating system icon" />
