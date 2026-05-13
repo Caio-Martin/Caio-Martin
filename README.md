@@ -1,43 +1,55 @@
 <h1 align="left">Caio Martin do Nascimento</h1>
 
-###
-
 <pre>
 Bachelor's Degree Student in Computer Science (Centro Universitário Padre Anchieta)
 </pre>
 
-###
+<h4 align="left">
+  I'm a software developer with a background in IT support and a strong interest in automation, data, and AI. I enjoy writing clean, reusable code and exploring DevOps practices like CI/CD with GitHub Actions, Docker, and Kubernetes. I'm currently deepening my skills in Python, machine learning, and data analysis, while also sharpening my problem-solving abilities on LeetCode.
+</h4>
 
-<h4 align="left">I'm a software developer with a background in IT support and a strong interest in automation, data, and AI. I enjoy writing clean, reusable code and exploring DevOps practices like CI/CD with GitHub Actions, Docker, and Kubernetes. I'm currently deepening my skills in Python, machine learning, and data analysis, while also sharpening my problem-solving abilities on LeetCode.</h4>
+---
 
-###
-
-<h2 align="left">🧰Languages and Tools</h2>
-
-###
+<h2 align="left">🧰 Languages and Tools</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub icon" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git version control icon" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code icon" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python programming language icon" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash shell scripting icon" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell scripting icon" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 markup language icon" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 styling language icon" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker containerization icon" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes orchestration icon" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="40" alt="filezilla logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions CI/CD icon" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Microsoft Azure cloud icon" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="Amazon Web Services icon" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original-wordmark.svg" height="40" alt="Proxmox virtualization icon" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux operating system icon" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu Linux icon" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=debian" height="40" alt="Debian Linux icon" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redhat" height="40" alt="Red Hat Linux icon" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL database icon" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="Cypress testing framework icon" />
 </div>
-
-###
