@@ -1,5 +1,4 @@
-  <a href="https://www.caiomartin.dev/" target="_blank"><h1 align="left">Caio Martin do Nascimento</h1>
-</a>
+<h1 align="left"><a href="https://www.caiomartin.dev/" target="_blank">Caio Martin do Nascimento</a></h1>
 
 <pre>
 Associate Degree Student in Big Data (Centro Universitário Padre Anchieta)
@@ -44,7 +43,7 @@ Bachelor's Degree Student in Computer Science (Centro Universitário Padre Anchi
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="Amazon Web Services icon" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/-E57000?style=flat&logo=proxmox&logoColor=white" height="40" alt="Proxmox virtualization icon" />
+  <img src="https://wsrv.nl/?url=cdn.simpleicons.org/proxmox/ffffff&w=80&h=80&fit=contain&bg=E57000" height="40" alt="Proxmox virtualization icon" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux operating system icon" />
   <img width="12" />
