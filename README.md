@@ -43,7 +43,7 @@ Bachelor's Degree Student in Computer Science (Centro Universitário Padre Anchi
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="Amazon Web Services icon" />
   <img width="12" />
-  <img src="https://wsrv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original-wordmark.svg&w=80&h=80&fit=contain&bg=E57000" height="40" alt="Proxmox virtualization icon" />
+  <img src="https://wsrv.nl/?url=cdn.simpleicons.org/proxmox/ffffff&w=80&h=80&fit=contain&bg=E57000" height="40" alt="Proxmox virtualization icon" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux operating system icon" />
   <img width="12" />
