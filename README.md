@@ -1,11 +1,16 @@
-<h1 align="left">Caio Martin do Nascimento</h1>
+  <a href="https://www.caiomartin.dev/" target="_blank"><h1 align="left">Caio Martin do Nascimento</h1>
+</a>
+
+<pre>
+Associate Degree Student in Big Data (Centro Universitário Padre Anchieta)
+</pre>
 
 <pre>
 Bachelor's Degree Student in Computer Science (Centro Universitário Padre Anchieta)
 </pre>
 
 <h4 align="left">
-  I'm a software developer with a background in IT support and a strong interest in automation, data, and AI. I enjoy writing clean, reusable code and exploring DevOps practices like CI/CD with GitHub Actions, Docker, and Kubernetes. I'm currently deepening my skills in Python, machine learning, and data analysis, while also sharpening my problem-solving abilities on LeetCode.
+  I am an IT infrastructure professional specializing in networking and cloud computing. I have carried out several projects in IT environment automation and have knowledge of Active Directory, Windows Server, Linux, Docker, Kubernetes, Git, GitHub Actions, Azure, and AWS. I am currently deepening my skills in observability and monitoring with Zabbix, Prometheus, and Grafana. I am passionate about technology and am always looking for new challenges and opportunities to learn and grow professionally.
 </h4>
 
 ---
@@ -39,7 +44,7 @@ Bachelor's Degree Student in Computer Science (Centro Universitário Padre Anchi
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="Amazon Web Services icon" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original-wordmark.svg" height="40" alt="Proxmox virtualization icon" />
+  <img src="https://img.shields.io/badge/-E57000?style=flat&logo=proxmox&logoColor=white" height="40" alt="Proxmox virtualization icon" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux operating system icon" />
   <img width="12" />
